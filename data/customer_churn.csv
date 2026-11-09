@@ -1,0 +1,21 @@
+gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,InternetService,Contract,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+Female,0,Yes,No,12,Yes,DSL,Month-to-month,Electronic check,70.5,846.0,Yes
+Male,0,No,No,45,Yes,Fiber optic,One year,Credit card (automatic),85.2,3834.0,No
+Female,1,No,No,2,Yes,Fiber optic,Month-to-month,Electronic check,95.0,190.0,Yes
+Male,0,Yes,Yes,60,Yes,DSL,Two year,Bank transfer (automatic),55.0,3300.0,No
+Female,0,Yes,Yes,24,Yes,DSL,One year,Mailed check,60.0,1440.0,No
+Male,1,No,No,3,Yes,Fiber optic,Month-to-month,Electronic check,99.0,297.0,Yes
+Female,0,No,Yes,50,Yes,No,Two year,Bank transfer (automatic),25.0,1250.0,No
+Male,0,Yes,No,8,Yes,Fiber optic,Month-to-month,Mailed check,89.0,712.0,Yes
+Female,0,Yes,No,36,Yes,DSL,One year,Credit card (automatic),65.0,2340.0,No
+Male,0,No,No,5,Yes,Fiber optic,Month-to-month,Electronic check,92.0,460.0,Yes
+Female,1,Yes,No,48,Yes,DSL,Two year,Bank transfer (automatic),58.0,2784.0,No
+Male,0,No,Yes,18,Yes,Fiber optic,Month-to-month,Electronic check,88.0,1584.0,Yes
+Female,0,Yes,Yes,70,Yes,DSL,Two year,Credit card (automatic),52.0,3640.0,No
+Male,1,No,No,1,Yes,Fiber optic,Month-to-month,Mailed check,100.0,100.0,Yes
+Female,0,No,No,30,Yes,No,One year,Bank transfer (automatic),25.0,750.0,No
+Male,0,Yes,Yes,55,Yes,DSL,Two year,Credit card (automatic),62.0,3410.0,No
+Female,1,No,No,4,Yes,Fiber optic,Month-to-month,Electronic check,97.0,388.0,Yes
+Male,0,Yes,No,40,Yes,DSL,One year,Mailed check,60.0,2400.0,No
+Female,0,No,Yes,10,Yes,Fiber optic,Month-to-month,Electronic check,91.0,910.0,Yes
+Male,0,Yes,Yes,65,Yes,DSL,Two year,Bank transfer (automatic),54.0,3510.0,No
